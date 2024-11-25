@@ -1,6 +1,5 @@
 <div align="center">
 <img src="assets/difsd.png" width="80">
-<div align="center">
 <h1>DiFSD</h1>
 <h3>Ego-Centric Fully Sparse Paradigm with Uncertainty Denoising and Iterative Refinement for Efficient End-to-End Self-Driving</h3>
 
