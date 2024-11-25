@@ -30,7 +30,7 @@ ArXiv Preprint ([arXiv 2409.09777](https://arxiv.org/abs/2409.09777))
 
 ## Introduction
 <div align="center">
-<img src="assets/overview.png" width="700"/>
+<img src="assets/overview.png" width="600"/>
 </div>
 Current end-to-end autonomous driving methods resort to unifying modular designs for various tasks (e.g. perception, prediction and planning). Although optimized in a planning-oriented spirit with a fully differentiable framework, existing end-to-end driving systems without ego-centric designs still suffer from unsatisfactory performance and inferior efficiency, owing to the rasterized scene representation learning and redundant information transmission. In this paper, we revisit the human driving behavior and propose an ego-centric fully sparse paradigm, named DiFSD, for end-to-end self-driving. Specifically, DiFSD mainly consists of sparse perception, hierarchical interaction and iterative motion planner. The sparse perception module performs detection, tracking and online mapping based on sparse representation of the driving scene. The hierarchical interaction module aims to select the Closest In-Path Vehicle / Stationary (CIPV / CIPS) from coarse to fine, benefiting from an additional geometric prior. As for the iterative motion planner, both selected interactive agents and ego-vehicle are considered for joint motion prediction, where the output multi-modal ego-trajectories are optimized in an iterative fashion. Besides, both position-level motion diffusion and trajectory-level planning denoising are introduced for uncertainty modeling, thus facilitating the training stability and convergence of the whole framework. Extensive experiments conducted on nuScenes and Bench2Drive datasets demonstrate the superior planning performance and great efficiency of DiFSD.
 
@@ -38,18 +38,18 @@ Current end-to-end autonomous driving methods resort to unifying modular designs
 ## Framework
 
 <div align="center">
-<img src="assets/framework.png" width="700"/>
+<img src="assets/framework.png" width="900"/>
 </div>
 
 ## Open-loop Planning Evaluation
 <div align="center"><img src="assets/openloop.png" width="900"/></div>
 
 ## Closed-loop Planning Evaluation
-<div align="center"><img src="assets/closedloop.png" width="900"/></div>
+<div align="center"><img src="assets/closedloop.png" width="600"/></div>
 
 ## Qualitative Visualization
 <div align="center">
-<img src="assets/visualization.png" width="700"/>
+<img src="assets/visualization.png" width="600"/>
 </div>
 
 ## Getting Started
