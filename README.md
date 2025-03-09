@@ -7,7 +7,7 @@
 
 <sup>1</sup> School of AI and Department of CSE, SJTU, <sup>2</sup> SenseAuto Research
 
-(<sup>:email:</sup>) corresponding author, yanjunchi@sjtu.edu.cn
+:email:: corresponding author
 
 [![Paper](https://img.shields.io/badge/cs.CV-2409.09777-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2409.09777)
 
@@ -25,6 +25,7 @@
 - [Open-loop Planning Evaluation](#open-loop-planning-evaluation)
 - [Closed-loop Planning Evaluation](#closed-loop-planning-evaluation)
 - [Qualitative Visualization](#qualitative-visualization)
+- [License](#license)
 - [Contact](#contact)
 - [Citation](#citation)
 
@@ -55,6 +56,9 @@ Current end-to-end autonomous driving methods resort to unifying modular designs
 
 ## Getting Started
 TBD
+
+## License
+This project is released under the [Apache 2.0 license](./LICENSE)
 
 
 ## Contact
