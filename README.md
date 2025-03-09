@@ -7,7 +7,7 @@
 
 <sup>1</sup> School of AI and Department of CSE, SJTU, <sup>2</sup> SenseAuto Research
 
-:email:: corresponding author
+:email:: Corresponding author
 
 [![Paper](https://img.shields.io/badge/cs.CV-2409.09777-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2409.09777)
 
